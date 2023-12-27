@@ -1,0 +1,15 @@
+﻿<?xml version="1.0"?>
+	<Database>
+		<Application>
+      <ID>0</ID>
+			<Name>Example Name</Name>
+			<Desc>Test Example App</Desc>
+			<PathName>Example</PathName>
+			<MSI>N</MSI>
+			<CMD>N</CMD>
+      <Winget>N</Winget>
+      <WingetName>Test.App</WingetName>
+			<Info>Test Data</Info>
+		</Application>
+	</Database>
+			
